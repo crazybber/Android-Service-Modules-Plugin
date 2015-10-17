@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin-features  
+Bundle-Name="plugin文件传参" 
+Bundle-SymbolicName="com.apkplug.plugindemo"	
+Bundle-Version="1.0.3"
+date="2012.11.28"
+Install="false"
+provider-name="插件开发商的名称" 
+provider-url="" 
+Bundle-Activator="com.apkplug.plugindemo.SimpleBundle"
+Bundle-Activity="com.apkplug.plugindemo.MainActivity"
+mykey="我是插件自定义的一个参数"
+>
+</plugin-features>
